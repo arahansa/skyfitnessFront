@@ -1,0 +1,111 @@
+.main-slider .slider-contents-wrap {
+  background: url("../images/slider-red-shape.png") right bottom no-repeat;
+}
+.main-slider h1 strong,
+.comment-meta .comment-reply-link {
+  color: #008eeb;
+}
+.main-navigation > li > a:hover {
+  color: #008eeb;
+  border-top: 6px solid #008eeb;
+}
+.main-slider .slick-dots .slick-active,
+.gallery-wrap .slick-dots .slick-active,
+.prices-page #accordion .active {
+  background: #008eeb;
+}
+.main-slider .slick-dots li,
+.gallery-wrap .slick-dots li {
+  border-color: #008eeb;
+}
+.btn-color,
+.social-follow,
+.class-overlay .entry-footer .price,
+.class-overlay .entry-footer .price:after,
+.progress-wrap .progress-bar,
+.blog-page .blog-posts-filter a:hover,
+.blog-page .blog-posts-filter .active,
+.widget_recent_entries h4,
+.commentlist .children .depth-2 .comment-wrap .author a,
+#respond input[type="submit"],
+.gallery-page .blog-posts-filter .active,
+.gallery-page .blog-posts-filter a:hover,
+#signup-form input[type="submit"],
+.events-page .event-post .entry-footer .price,
+.events-page .event-post .entry-footer .price:after,
+.home-news-articles .more:hover,
+.main-slider .slick-arrow:hover,
+.page-404 .btn:hover {
+  background: #008eeb;
+}
+.border-title i {
+  background: url("../images/border-bg.png") center repeat-x;
+}
+.home-news-articles .author,
+.bmi-wrap .small,
+.bmi-wrap .bmi-details a,
+.gallery-var-two .likes,
+.class-overlay .entry-footer .sign-up,
+.class-overlay .author a,
+.fitness-price-plans .price strong,
+.blog-page .post-meta .author,
+.blog-page .post-meta a:hover,
+#pagination i,
+#footer .footer-meta a:hover,
+#footer .footer-nav a:hover,
+.soical-like-container .fa-heart,
+.training-details-page p a,
+.events-page .event-post .entry-footer .sign-up,
+.slider-training-wrap .wrap:hover h3,
+.slider-training-wrap .wrap:hover i,
+.slider-training-post p a,
+.slick-arrow:hover,
+.team-wrap .team-carousel-wrap .slick-arrow:hover,
+.banner a:hover,
+.social-nav a:hover i,
+a:hover,
+.widget_recent_entries a:hover,
+.trainers-page .trainer .more:hover,
+.gallery-videos .entry-contents a,
+.social-nav a:hover i {
+  color: #008eeb;
+}
+.gallery-wrap .contents,
+.team-wrap .team-carousel-wrap.when,
+.home-news-articles-2 .contents,
+.fitness-price-plans .timing,
+.trainers-page .trainer .overlay,
+.team-wrap .team-carousel-wrap,
+.classes .class:hover .title,
+.team-wrap .team-carousel .class:hover h4,
+.recent-posts .post.recent-post:hover h4 {
+  background: #008eeb;
+  background: rgba(0, 114, 189, 0.75);
+}
+.main-slider-two .slider-contents-wrap {
+  background: url("../images/slider-red-shape-2.png") right bottom no-repeat;
+}
+.shapes-section:before,
+.trainers-page {
+  background: url("../images/top-shape.png") center top no-repeat;
+}
+.fitness-price-plans .price-plan .entry-title {
+  background: url("../images/price-table-title-bg.png") center no-repeat;
+  background-size: cover;
+}
+.blog-page {
+  background: url("../images/blog-top-shape.png") center top no-repeat;
+}
+.blog-with-sidebar,
+.blog-single-page {
+  background: none;
+}
+.gallery-page {
+  background: url("../images/blog-top-shape.png") center top no-repeat;
+}
+.gallery-videos {
+  background: url("../images/blog-top-shape.png") center top no-repeat;
+}
+.classes .class .title a:hover {
+  color: #008eeb !important;
+}
